@@ -1,4 +1,4 @@
-// syn_flood_loop.c
+// syn_flood.c
 // Compile: gcc syn_flood_loop.c -o syn_flood_loop -Wall -lcrypto
 // Run as root: sudo ./syn_flood_loop <target_ip> <target_port>
 
