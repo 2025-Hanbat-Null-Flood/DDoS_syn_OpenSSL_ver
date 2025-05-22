@@ -1,6 +1,6 @@
 // syn_flood.c
 // Compile: gcc syn_flood.c -o syn_flood -Wall -lcrypto
-// Run as root: sudo ./syn_flood_loop <target_ip> <target_port>
+// Run as root: sudo ./syn_flood <target_ip> <target_port>
 
 #include <stdio.h>
 #include <stdlib.h>
