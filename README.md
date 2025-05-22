@@ -1,5 +1,8 @@
 구동 테스트 안된 ver
 
+클라이언트에 openssl 설치가 되어있어야함
+
+
 SYNflood 공격코드 PRANG 활용(OpenSSL - RAND_bytes())
 
 동작 방식
