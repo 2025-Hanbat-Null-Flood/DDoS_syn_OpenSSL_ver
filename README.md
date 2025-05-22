@@ -3,7 +3,9 @@
 SYNflood 공격코드 PRANG 활용(OpenSSL - RAND_bytes())
 
 동작 방식
+
 attack syn <타겟IP> <타겟PORT> <bot_count>
+
 (ex: attack syn 192.168.0.10 80 2)
 
 봇은 해당 타겟으로 stop 명령 받을 때까지 SYN Flood를 지속합니다.
